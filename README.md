@@ -1,9 +1,10 @@
 Tech Stack:
-- Python
-- Flask
-- JWT
-- Supabase
-- OpenAi
+1. Python
+2. Flask
+3. JWT
+4. Supabase
+5. OpenAi
+6. Streamlit
 
 # MigrationPlatform![Screenshot 2024-10-11 at 2 22 38 PM](https://github.com/user-attachments/assets/bd67d134-1925-44a3-9741-10e32fd1c606)
 
