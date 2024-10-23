@@ -1,4 +1,4 @@
-# Project Name
+![WhatsApp Image 2024-10-22 at 8 35 16 PM](https://github.com/user-attachments/assets/bf96a512-2dbf-447e-9302-e51f194372fc)# Project Name
 
 A brief description of your project, its purpose, and the problem it solves.
 
@@ -25,6 +25,16 @@ Provide a detailed overview of your project, including key features, objectives,
 | **Deployment** | -  | - |
 | **API Client** | Requests | Axios |
 | **Task Queue** | -  | RabbitMQ  |
+
+### Version 1
+![dashboard](https://github.com/user-attachments/assets/1be05301-2ea7-4b1f-a284-9fd5a878f35c)
+![results](https://github.com/user-attachments/assets/5441ed3b-026b-4e41-a8d5-e0495f7287b4)
+
+
+### Version 2
+![dashboard](https://github.com/user-attachments/assets/b9ca5d89-efb6-4272-a7d1-9e4106be5ea8)
+![chatwithpdf](https://github.com/user-attachments/assets/eae9e736-1dcd-4c3d-919c-904c87746a8d)
+
 
 **Version 1:** The initial version of the project with simpler technologies.
 
