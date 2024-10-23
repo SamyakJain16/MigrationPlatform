@@ -64,7 +64,7 @@ if index_name not in pc.list_indexes().names():
 # Get the index
 index = pc.Index(index_name)
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="")
 # -------------------------------------------------
 
 
