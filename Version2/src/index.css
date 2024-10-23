@@ -1,0 +1,10 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* You can add any global styles below this line */
+
+
+html, body, #root {
+  height: 100%;
+}
