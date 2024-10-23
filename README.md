@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-10-22 at 8 35 16 PM](https://github.com/user-attachments/assets/bf96a512-2dbf-447e-9302-e51f194372fc)# Project Name
+# Project Name
 
 A brief description of your project, its purpose, and the problem it solves.
 
