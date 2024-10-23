@@ -1,6 +1,5 @@
 # Project Name
 
-A brief description of your project, its purpose, and the problem it solves.
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
@@ -12,7 +11,6 @@ A brief description of your project, its purpose, and the problem it solves.
 7. [Contact](#contact)
 
 ## Project Overview
-Provide a detailed overview of your project, including key features, objectives, and any relevant background information.
 
 ## Tech Stack
 
