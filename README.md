@@ -1,18 +1,32 @@
-Tech Stack:
-1. Python
-2. Flask
-3. JWT
-4. Supabase
-5. OpenAi
-6. Streamlit
+# Project Name
 
-# MigrationPlatform![Screenshot 2024-10-11 at 2 22 38 PM](https://github.com/user-attachments/assets/bd67d134-1925-44a3-9741-10e32fd1c606)
+A brief description of your project, its purpose, and the problem it solves.
 
-![dashboard](https://github.com/user-attachments/assets/59b274a6-255b-49b1-9645-193845fc87f2)
+## Table of Contents
+1. [Project Overview](#project-overview)
+2. [Tech Stack](#tech-stack)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Contributing](#contributing)
+6. [License](#license)
+7. [Contact](#contact)
 
-![Screenshot 2024-10-11 at 2 25 54 PM](https://github.com/user-attachments/assets/29de597e-04ed-4984-8072-750cb771758e)
+## Project Overview
+Provide a detailed overview of your project, including key features, objectives, and any relevant background information.
 
-![results](https://github.com/user-attachments/assets/339d9bb8-aa17-43fc-84a1-8d50fab9ff1e)
+## Tech Stack
 
-https://github.com/user-attachments/assets/089782c7-bd01-48b1-a3f9-619ea9f9c80b
+| Tech Stack     | Version 1        | Version 2         |
+| -------------- | ---------------- | ----------------- |
+| **Frontend**   | Streamlit        | React.js          |
+| **Backend**    | Flask            | FastAPI           |
+| **Database**   | Supabase          | MongoDB        |
+| **Authentication** | Custom JWT Auth    |  -  |
+| **Deployment** | -  | - |
+| **API Client** | Requests | Axios |
+| **Task Queue** | -  | RabbitMQ  |
+
+**Version 1:** The initial version of the project with simpler technologies.
+
+**Version 2:** The updated version of the project with more modern and scalable tech choices.
 
