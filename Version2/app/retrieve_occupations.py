@@ -7,4 +7,3 @@ def get_occupation_list(file_path, column_name):
     return occupation_list
 
 
-# occupation_lists = get_occupation_list('/Users/mayankjain/Downloads/migration_crewai/project-resh/occupation_finder/knowledge_base/occupation_list_main.csv', 'Occupations')
